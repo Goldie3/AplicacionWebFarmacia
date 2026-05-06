@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nTfb4WY8xx0=",
+  "dgSpecHash": "9kYiPirLOrU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -114,9 +114,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "El paquete \"NuGet.Packaging\" 6.12.1 tiene una vulnerabilidad de gravedad baja conocida, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj",
+      "projectPath": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj",
+      "filePath": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -126,9 +126,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "El paquete \"NuGet.Protocol\" 6.12.1 tiene una vulnerabilidad de gravedad baja conocida, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj",
+      "projectPath": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj",
+      "filePath": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net10.0"

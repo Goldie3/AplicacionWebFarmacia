@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\",
+  "WorkspaceRootPath": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|c:\\users\\bruno\\source\\repos\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|solutionrelative:aplicacionwebfarmacia\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|c:\\users\\bruno\\source\\repos\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|c:\\users\\bruno\\onedrive\\escritorio\\clases\\.net\\prueba 2\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|solutionrelative:aplicacionwebfarmacia\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|c:\\users\\bruno\\source\\repos\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|solutionrelative:aplicacionwebfarmacia\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|c:\\users\\bruno\\onedrive\\escritorio\\clases\\.net\\prueba 2\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|solutionrelative:aplicacionwebfarmacia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|c:\\users\\bruno\\source\\repos\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|solutionrelative:aplicacionwebfarmacia\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|c:\\users\\bruno\\onedrive\\escritorio\\clases\\.net\\prueba 2\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\views\\producto\\indexproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|solutionrelative:aplicacionwebfarmacia\\views\\producto\\indexproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|c:\\users\\bruno\\onedrive\\escritorio\\clases\\.net\\prueba 2\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\aplicacionwebfarmacia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8EC0F8A-FEAF-6CB0-0486-B499672A3340}|AplicacionWebFarmacia\\AplicacionWebFarmacia.csproj|solutionrelative:aplicacionwebfarmacia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Views\\Producto\\Index.cshtml",
-              "RelativeDocumentMoniker": "AplicacionWebFarmacia\\Views\\Producto\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Views\\Producto\\Index.cshtml",
-              "RelativeToolTip": "AplicacionWebFarmacia\\Views\\Producto\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T21:15:44.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "AplicacionWebFarmacia\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "AplicacionWebFarmacia\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T21:04:03.483Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "AplicacionWebFarmacia\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Models\\Producto.cs",
-              "RelativeToolTip": "AplicacionWebFarmacia\\Models\\Producto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T20:58:45.997Z",
+              "Title": "IndexProductos.cshtml",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Views\\Producto\\IndexProductos.cshtml",
+              "RelativeDocumentMoniker": "AplicacionWebFarmacia\\Views\\Producto\\IndexProductos.cshtml",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Views\\Producto\\IndexProductos.cshtml",
+              "RelativeToolTip": "AplicacionWebFarmacia\\Views\\Producto\\IndexProductos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T20:39:43.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "AplicacionWebFarmacia\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\bruno\\source\\repos\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "AplicacionWebFarmacia\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AplicacionWebFarmacia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AplicacionWebFarmacia\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T20:37:58.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AplicacionWebFarmacia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AplicacionWebFarmacia\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T20:58:04.501Z",
+              "WhenOpened": "2026-05-06T20:27:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "AplicacionWebFarmacia\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Escritorio\\clases\\.net\\Prueba 2\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\AplicacionWebFarmacia\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "AplicacionWebFarmacia\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T21:04:03.483Z",
               "EditorCaption": ""
             }
           ]
