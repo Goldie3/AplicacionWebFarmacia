@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AplicacionWebFarmacia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+554b26f0321c8f35966e8b360e9eaa2d2df7cfbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f557ece4173a7688817b5e5e47bc6985d0dfe1b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AplicacionWebFarmacia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AplicacionWebFarmacia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
