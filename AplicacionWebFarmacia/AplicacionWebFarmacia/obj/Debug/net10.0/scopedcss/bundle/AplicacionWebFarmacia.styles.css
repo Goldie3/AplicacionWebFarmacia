@@ -3,9 +3,12 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 a.navbar-brand[b-km2pwz77jo] {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 a[b-km2pwz77jo] {
@@ -38,6 +41,11 @@ a[b-km2pwz77jo] {
 button.accept-policy[b-km2pwz77jo] {
   font-size: 1rem;
   line-height: inherit;
+}
+.navbar-nav.flex-grow-1[b-km2pwz77jo] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer[b-km2pwz77jo] {

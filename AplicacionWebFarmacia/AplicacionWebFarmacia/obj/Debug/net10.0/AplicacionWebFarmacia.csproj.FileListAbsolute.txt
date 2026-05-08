@@ -529,7 +529,6 @@ C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\Ap
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\scopedcss\bundle\AplicacionWebFarmacia.styles.css
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\scopedcss\projectbundle\AplicacionWebFarmacia.bundle.scp.css
-C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\ag1z46qc4q-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\5nb5tl66gf-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\n25zf41usr-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\7rm41ic0jz-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -591,8 +590,6 @@ C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\Ap
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\tk68h9s5ba-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\fbex6dnu2j-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\0fou2pv06c-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\vn3y34a1ec-{0}-ldchvogboc-ldchvogboc.gz
-C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\kddldxurm4-{0}-ldchvogboc-ldchvogboc.gz
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\staticwebassets.development.json
@@ -909,3 +906,6 @@ C:\Users\ignac\OneDrive\Documentos\GitHub\AplicacionWebFarmacia\AplicacionWebFar
 C:\Users\ignac\OneDrive\Documentos\GitHub\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\AplicacionWebFarmacia.pdb
 C:\Users\ignac\OneDrive\Documentos\GitHub\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\AplicacionWebFarmacia.genruntimeconfig.cache
 C:\Users\ignac\OneDrive\Documentos\GitHub\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\ref\AplicacionWebFarmacia.dll
+C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\vn3y34a1ec-{0}-30bnliq9v1-30bnliq9v1.gz
+C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\kddldxurm4-{0}-30bnliq9v1-30bnliq9v1.gz
+C:\Users\bruno\OneDrive\Escritorio\clases\.net\Prueba 2\AplicacionWebFarmacia\AplicacionWebFarmacia\AplicacionWebFarmacia\obj\Debug\net10.0\compressed\ag1z46qc4q-{0}-i9yz07mmam-i9yz07mmam.gz
